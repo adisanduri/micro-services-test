@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ezbob.iml" filepath="$PROJECT_DIR$/ezbob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-log/service-log.iml" filepath="$PROJECT_DIR$/service-log/service-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registration/service-registration.iml" filepath="$PROJECT_DIR$/service-registration/service-registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-shuffle/service-shuffle.iml" filepath="$PROJECT_DIR$/service-shuffle/service-shuffle.iml" />
+    </modules>
+  </component>
+</project>
